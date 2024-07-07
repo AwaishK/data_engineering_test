@@ -1,0 +1,3 @@
+PYTHONPATH=/path/to/project/directory
+CONFIG=/path/to/config/file
+AIRFLOW_HOME=/path/to/project/directory
