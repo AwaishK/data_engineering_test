@@ -7,3 +7,4 @@ airflow.db
 .DS_Store
 config.ini
 standalone_admin_password.txt
+*.pyc 
