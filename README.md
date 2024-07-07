@@ -28,6 +28,7 @@
 └── config.ini
 └── .env
 └── env
+└── user_interactions_db.sql
 └── airflow.cfg
 └── .gitignore
 ```
